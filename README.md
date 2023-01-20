@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Danlunguinho
-- I’m currently learning Node JS.
-- I know HTML, Node, MySQL.
+- I’m currently learning Node JS and Salesforce
+- I know HTML, Node, MySQL, Salesforce Development
 - 📫 How to reach me: Lunguinho9@hotmail.com
 
 <!---
