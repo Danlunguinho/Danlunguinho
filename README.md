@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Danlunguinho, curently I'm searching for a job oppurtinity.
+- 👋 Hi, I’m @Danlunguinho, curently I'm working as TI Analyst.
 - Now I'm learning back-end development with Python(Django)
 - But I also know HTML, Python Flask, Node.js, MySQL, Salesforce Development
 - My email📫: Lunguinho9@hotmail.com 
