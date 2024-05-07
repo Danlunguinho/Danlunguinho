@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Danlunguinho, curently I'm working as TI Analyst.
-- I'm also looking for a software developmeant opportunity. 
-- Now I'm learning back-end development with Python(Django).
+- I'm also looking for a software developmeant opportunity (Full-Stack or Back-end). 
+- Now I'm studying and practicing Node.js.
 - But I know HTML, Python Flask, Node.js, SQL language.
 - I Have a few projects here, mainly in Node.js and Python.
 - My email📫: Lunguinho9@hotmail.com 
