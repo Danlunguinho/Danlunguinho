@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Danlunguinho, curently I'm working as TI Analyst.
 - I'm also looking for a software developmeant opportunity (Full-Stack or Back-end). 
-- Now I'm studying and practicing Node.js.
-- But I know HTML, Python Flask, Node.js, SQL language.
+- Now I'm studying and practicing Node.js, JavaScript.
+- I curently use Express.js, and for the database Mongoose or Sequelize to develop my projects.
+- But I also know HTML, Python Flask, SQL language.
 - I Have a few projects here, mainly in Node.js and Python.
 - My email📫: Lunguinho9@hotmail.com 
 - My Linkedin: https://www.linkedin.com/in/daniel-lunguinho-a49a621a1/
